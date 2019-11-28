@@ -1,7 +1,7 @@
 <?php require_once("inc/head.php"); ?>
 <title>Prática em aula JS</title>
 </head>
-alooo
+
 <body>
     <?php require_once("inc/header.php"); ?>
     <main id="content" class="container-fluid">
